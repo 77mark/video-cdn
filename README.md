@@ -1,5 +1,7 @@
 ## 视频床-jsdelivr
 - https://cdn.jsdelivr.net/gh/Ysnsn/video-cdn/001.m3u8
+- https://cdn.jsdelivr.net/gh/Ysnsn/video-cdn/002.m3u8
+-  https://cdn.jsdelivr.net/gh/Ysnsn/video-cdn/003.m3u8
 - https://cdn.jsdelivr.net/gh/lete114/CDN2/video/4.m3u8
 
 | 属性 | 值 | 说明 |
@@ -16,8 +18,8 @@
 
 
 ````
-ffmpeg.exe -y -i 002.mp4 -vcodec copy -acodec copy -vbsf h264_mp4toannexb 002.ts
-ffmpeg -i 002.ts -c copy -map 0 -f segment -segment_list 002.m3u8 -segment_time 4 002%03d.ts
+ffmpeg.exe -y -i 004.mp4 -vcodec copy -acodec copy -vbsf h264_mp4toannexb 004.ts
+ffmpeg -i 004.ts -c copy -map 0 -f segment -segment_list 004.m3u8 -segment_time 4 004%03d.ts
 ````
 
 
