@@ -1,4 +1,13 @@
 ## 视频床-jsdelivr
+<p align="center">
+    <a>
+        <img alt="GitHub stars" src="https://img.shields.io/github/stars/Ysnsn/video-cdn?style=social">
+    </a>
+    <a>
+    <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/Ysnsn/video-cdn?style=flat-square">
+    </a>
+</p>
+
 - https://cdn.jsdelivr.net/gh/Ysnsn/video-cdn/001.m3u8
 - https://cdn.jsdelivr.net/gh/Ysnsn/video-cdn/002.m3u8
 -  https://cdn.jsdelivr.net/gh/Ysnsn/video-cdn/003.m3u8
