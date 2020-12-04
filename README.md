@@ -2,7 +2,13 @@
 - https://cdn.jsdelivr.net/gh/Ysnsn/video-cdn/001.m3u8
 - https://cdn.jsdelivr.net/gh/Ysnsn/video-cdn/002.m3u8
 -  https://cdn.jsdelivr.net/gh/Ysnsn/video-cdn/003.m3u8
+- https://cdn.jsdelivr.net/gh/Ysnsn/video-cdn//2020/1/00.m3u8
+- https://cdn.jsdelivr.net/gh/Ysnsn/video-cdn//2020/2/00.m3u8
+- https://cdn.jsdelivr.net/gh/Ysnsn/video-cdn//2020/3/00.m3u8
+- https://cdn.jsdelivr.net/gh/Ysnsn/video-cdn//2020/6/004.m3u8
+- https://cdn.jsdelivr.net/gh/Ysnsn/video-cdn//2020/12/004.m3u8
 - https://cdn.jsdelivr.net/gh/lete114/CDN2/video/4.m3u8
+
 
 | 属性 | 值 | 说明 |
 | :--: | ---- | ---- |
@@ -19,7 +25,7 @@
 
 ````
 ffmpeg.exe -y -i 00.mp4 -vcodec copy -acodec copy -vbsf h264_mp4toannexb 00.ts
-ffmpeg -i 00.ts -c copy -map 0 -f segment -segment_list 00.m3u8 -segment_time 5 00%03d.ts
+ffmpeg -i 00.ts -c copy -map 0 -f segment -segment_list 00.m3u8 -segment_time 3 00%03d.ts
 ````
 
 
