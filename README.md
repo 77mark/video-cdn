@@ -1,4 +1,4 @@
-## 视频床-jsdeliver
+## 视频床-jsdelivr
 - https://cdn.jsdelivr.net/gh/Ysnsn/video-cdn/001.m3u8
 - https://cdn.jsdelivr.net/gh/lete114/CDN2/video/4.m3u8
 
