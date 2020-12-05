@@ -12,7 +12,8 @@
 
 ![](https://count.getloli.com/get/@Ysnsn@video-cdn?theme=gelbooru)
 
-## 视频床-jsdelivr
+## <span style="color:orangered;font-weight:bold;">视频床-jsdelivr</span>
+
 - https://cdn.jsdelivr.net/gh/Ysnsn/video-cdn/001.m3u8
 - https://cdn.jsdelivr.net/gh/Ysnsn/video-cdn/002.m3u8
 - https://cdn.jsdelivr.net/gh/Ysnsn/video-cdn/003.m3u8
