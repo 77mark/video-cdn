@@ -15,7 +15,7 @@
 ## 视频床-jsdelivr
 - https://cdn.jsdelivr.net/gh/Ysnsn/video-cdn/001.m3u8
 - https://cdn.jsdelivr.net/gh/Ysnsn/video-cdn/002.m3u8
--  https://cdn.jsdelivr.net/gh/Ysnsn/video-cdn/003.m3u8
+- https://cdn.jsdelivr.net/gh/Ysnsn/video-cdn/003.m3u8
 - https://cdn.jsdelivr.net/gh/Ysnsn/video-cdn/2020/0/00.m3u8
 - https://cdn.jsdelivr.net/gh/Ysnsn/video-cdn/2020/1/00.m3u8
 - https://cdn.jsdelivr.net/gh/Ysnsn/video-cdn/2020/2/00.m3u8
@@ -30,6 +30,7 @@
 - https://cdn.jsdelivr.net/gh/Ysnsn/video-cdn@latest/2020/11/00.m3u8
 - https://cdn.jsdelivr.net/gh/Ysnsn/video-cdn@latest/2020/12/004.m3u8
 - https://cdn.jsdelivr.net/gh/Ysnsn/video-cdn@latest/2020/13/00.m3u8
+- https://cdn.jsdelivr.net/gh/Ysnsn/video-cdn@latest/2020/14/00.m3u8
 - https://cdn.jsdelivr.net/gh/lete114/CDN2/video/4.m3u8
 
 
