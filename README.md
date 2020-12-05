@@ -1,4 +1,3 @@
-## 视频床-jsdelivr
 <p align="center">
     <a>
         <img alt="GitHub stars" src="https://img.shields.io/github/stars/Ysnsn/video-cdn?style=social">
@@ -10,8 +9,10 @@
     <img alt="Author" src="https://img.shields.io/badge/Author-Ysnsn-blur">
     </a>
 </p>
-![](https://count.getloli.com/get/@Ysnsn@butterfly-source?theme=gelbooru)
 
+![](https://count.getloli.com/get/@Ysnsn@video-cdn?theme=gelbooru)
+
+## 视频床-jsdelivr
 - https://cdn.jsdelivr.net/gh/Ysnsn/video-cdn/001.m3u8
 - https://cdn.jsdelivr.net/gh/Ysnsn/video-cdn/002.m3u8
 -  https://cdn.jsdelivr.net/gh/Ysnsn/video-cdn/003.m3u8
