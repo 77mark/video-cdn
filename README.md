@@ -23,6 +23,8 @@
 - https://cdn.jsdelivr.net/gh/Ysnsn/video-cdn@latest/2020/4/00.m3u8
 - https://cdn.jsdelivr.net/gh/Ysnsn/video-cdn@latest/2020/5/00.m3u8
 - https://cdn.jsdelivr.net/gh/Ysnsn/video-cdn@latest/2020/6/004.m3u8
+- https://cdn.jsdelivr.net/gh/Ysnsn/video-cdn@latest/2020/7/004.m3u8
+- https://cdn.jsdelivr.net/gh/Ysnsn/video-cdn@latest/2020/8/004.m3u8
 - https://cdn.jsdelivr.net/gh/Ysnsn/video-cdn@latest/2020/12/004.m3u8
 - https://cdn.jsdelivr.net/gh/lete114/CDN2/video/4.m3u8
 
