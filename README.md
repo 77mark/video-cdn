@@ -6,7 +6,11 @@
     <a>
     <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/Ysnsn/video-cdn?style=flat-square">
     </a>
+    </a>
+    <img alt="Author" src="https://img.shields.io/badge/Author-Ysnsn-blur">
+    </a>
 </p>
+![](https://count.getloli.com/get/@Ysnsn@butterfly-source?theme=gelbooru)
 
 - https://cdn.jsdelivr.net/gh/Ysnsn/video-cdn/001.m3u8
 - https://cdn.jsdelivr.net/gh/Ysnsn/video-cdn/002.m3u8
