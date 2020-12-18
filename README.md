@@ -61,7 +61,7 @@
 
 ````
 ffmpeg.exe -y -i 00.mp4 -vcodec copy -acodec copy -vbsf h264_mp4toannexb 00.ts
-ffmpeg -i 00.ts -c copy -map 0 -f segment -segment_list 00.m3u8 -segment_time 3 00%03d.ts
+ffmpeg -i 00.ts -c copy -map 0 -f segment -segment_list 00.m3u8 -segment_time 5 00%03d.ts
 ````
 
 
