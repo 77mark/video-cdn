@@ -49,6 +49,7 @@
 - https://cdn.jsdelivr.net/gh/Ysnsn/video-cdn/2021/1/00.m3u8
 - https://cdn.jsdelivr.net/gh/Ysnsn/video-cdn/2021/2/00.m3u8
 - https://cdn.jsdelivr.net/gh/Ysnsn/video-cdn/2021/3/00.m3u8
+- https://cdn.jsdelivr.net/gh/Ysnsn/video-cdn/2021/4/00.m3u8
 - https://cdn.jsdelivr.net/gh/lete114/CDN2/video/4.m3u8
 
 
